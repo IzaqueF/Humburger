@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: RGB(65,31,9);
+}
+
+.navbar {
+    background-color: RGB(255,194,52);
+}
+
+main{
+    background-color: RGB(255,194,52);
+}
+
+.logo h1,h2 {
+    font-size: 120px;
+    color: RGB(65,31,9);
+}
+
+span.numero {
+    font-size: 15px;
+    color: azure;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
+
+.container-logoeimagem {
+    padding-left: 25%;
+    padding-right: 25%;
+}
+
+.delivery {
+    text-align: center;
+}
+
+.imagem {
+    position: relative;
+}
+
+.preco {
+    position: absolute;
+    bottom: 0;
+    right: 75%;
+}
+
+.caixa {
+    border-style: dotted;
+}
